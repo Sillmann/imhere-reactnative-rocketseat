@@ -38,14 +38,14 @@ export default function Home() {
 
   return(
     <View style={styles.container}>
-      <Text style={styles.eventName}>Lista de Participantes</Text>
-      <Text style={styles.eventSubName}>lista de nomes</Text>
+      <Text style={styles.eventName}>ImHere !</Text>
+      <Text style={styles.eventSubName}>lista de nomes participantes de um evento</Text>
 
       <View style={styles.form}>
 
         <TextInput 
           style={styles.input}
-          placeholder="Name"
+          placeholder="Nome do participante"
           placeholderTextColor="#6B6B6B"
           keyboardType="default"
           onChangeText={e => setParticipantName(e)}
@@ -72,7 +72,7 @@ export default function Home() {
         showsVerticalScrollIndicator={false}
         ListEmptyComponent={()=>(
           <Text style={styles.listEmptyText}>
-            Nenhum nome adicionado ainda na sua lista!
+            Ninguém chegou no evento ainda ? Adicione participantes a sua lista de presença.
           </Text>
         )}  
         />
