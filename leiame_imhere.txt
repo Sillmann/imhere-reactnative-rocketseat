@@ -1,2 +1,0 @@
-template para Expo App Icon & Splash
-https://www.figma.com/community/file/1155362909441341285/expo-app-icon-splash
