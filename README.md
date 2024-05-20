@@ -15,5 +15,6 @@ Principais conceitos utilizados:
 Certificado:
 https://app.rocketseat.com.br/certificates/89d59534-d67d-45a3-bff1-a9335910a925
 
-![Uploading certificado_rocketseat1a.png…]()
+![certificado_rocketseat1a](https://github.com/Sillmann/imhere-reactnative-rocketseat/assets/58642347/85e81f4f-7a2e-47af-a981-58356a4792c9)
+
 
