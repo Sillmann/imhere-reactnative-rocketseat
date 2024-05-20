@@ -14,3 +14,5 @@ Principais conceitos utilizados:
 
 Certificado:
 https://app.rocketseat.com.br/certificates/89d59534-d67d-45a3-bff1-a9335910a925
+
+[Uploading certificate_Fundamentos do React Native,.pdf…]()
